@@ -1,0 +1,201 @@
+id,artist,name,album,release_date,popularity,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,genres
+6K4t31amVTZDgR3sKmwUJJ,Tame Impala,The Less I Know The Better,Currents,2015-07-17,85,True,0.64,0.74,4,-4.083,1,0.0284,0.0115,0.00678,0.167,0.785,116.879,216320,4,australian psych;modern rock;neo-psychedelic;rock
+409C0oCpMq7DNRojawi1cH,Pete Philly & Perquisite,Mystery Repeats,Mystery Repeats,2007-09-10,41,False,0.813,0.683,5,-8.089,1,0.0784,0.121,0.0638,0.201,0.89,121.005,166467,4,jazz rap
+1MWpdDDf3Yk0w6o4oviMFY,Suzan & Freek,Als Het Avond Is,Gedeeld Door Ons,2019-09-27,55,False,0.725,0.47,11,-7.215,1,0.0301,0.528,0.0,0.113,0.45,104.984,205714,4,dutch pop
+78bpgo90wgz85ziZWgxmlP,Telekinesis,Falling (In Dreams),Ad Infinitum,2015-09-18,27,False,0.477,0.531,8,-5.749,1,0.0431,0.245,0.00161,0.126,0.271,133.087,159400,4,seattle indie
+0v9rbji05qP6JYLSYGF782,mischluft,Breaking My Heart,Breaking My Heart,2023-05-15,49,False,0.732,0.955,11,-8.436,0,0.074,0.00786,0.776,0.0987,0.577,160.002,271875,4,
+4iZ4pt7kvcaH6Yo8UoZ4s2,SZA,Snooze,SOS,2022-12-09,86,True,0.559,0.551,5,-7.231,1,0.132,0.141,0.0,0.11,0.392,143.008,201800,4,pop;r&b;rap
+6NYMd9sNlm1kFCI6oxb1Rb,Gotu Jim,Stiekem wil ik DJ zijn,Niet Geslapen Wel Gedoucht,2023-01-13,39,False,0.771,0.575,7,-9.622,1,0.14,0.426,0.146,0.111,0.346,124.993,282475,4,dutch hip hop;lustrum
+0SLE0Ym3WhxfHSDR7Qd5pf,Sainté,Stylin',Local Mvp,2021-01-06,63,False,0.641,0.436,6,-10.353,0,0.323,0.636,2.68e-05,0.14,0.535,129.08,158000,4,chill drill
+0p24oHzyK4XctH0qmndvdh,Gotu Jim,Nog Een Keer,Nog Een Keer,2024-01-26,27,False,0.743,0.432,1,-12.013,1,0.0436,0.0428,0.153,0.119,0.473,134.998,271220,4,dutch hip hop;lustrum
+20HCH8XT2EK1QYe1loAJ8E,Kid Francescoli,Moon (And It Went Like),Play Me Again,2017-03-03,63,False,0.662,0.657,7,-10.002,1,0.0345,0.289,0.868,0.103,0.0563,117.986,390639,4,french indie pop;french indietronica
+7cAMlhhz8JyULNYexSHloC,Frizzy P & Mr Cole,Blue,Ladi Dadi,2017-04-21,52,False,0.77,0.452,11,-7.037,1,0.0884,0.0627,3.49e-05,0.077,0.466,85.234,193354,4,hip-hop experimental
+6ek9SiEj5a65WIs2EV7qiM,Dusty Springfield,Son Of A Preacher Man,Dusty In Memphis,1969-03-31,75,False,0.404,0.43,4,-12.327,1,0.224,0.538,0.0,0.0802,0.641,180.061,148053,4,adult standards;british invasion;folk rock;soul;vocal jazz
+51QEyJI5M7uyd8DOh9tqQY,Lorde,Buzzcut Season,Pure Heroine,2013-09-27,69,False,0.733,0.62,1,-10.525,1,0.0752,0.612,0.291,0.117,0.251,111.039,246755,4,art pop;metropopolis;nz pop;pop
+4BOdCKuO8W8OwSuFdUxVop,Lipka,Change,Grande giocatore,2016-06-03,58,False,0.937,0.477,0,-11.905,0,0.0895,0.0867,0.00198,0.131,0.543,130.002,182250,4,swiss alternative rock
+4IR1ZygDYovtGiuyZFxgNt,La Fine Equipe,Tiramisu fraise,La boulangerie (Back Burners),2018-06-20,60,False,0.801,0.586,5,-6.769,0,0.0319,0.526,0.0138,0.146,0.886,83.656,139464,4,french indietronica;new french touch
+7g0zTrhxuhwMIjIj1VvMQh,Otesla,Gør Det,Punarjanma,2020-04-13,48,False,0.0,0.446,6,-8.531,1,0.0,0.0679,0.878,0.193,0.0,0.0,115387,0,chillhop;jazz boom bap;lo-fi beats
+5rQ16EbF8PNjUeKFMYwTCP,Daily J,Space,The Other Side,2017-12-08,44,False,0.667,0.599,11,-10.338,0,0.0426,0.188,0.0287,0.114,0.659,155.026,210755,4,auckland indie;australian surf rock
+30wFj0fOhOAivZkmhnKJjH,Suff Daddy,Worst Case Scenario,The Gin Diaries,2010-04-16,60,True,0.64,0.663,9,-6.621,0,0.0507,0.203,0.00426,0.245,0.926,91.9,62947,4,abstract beats;jazz boom bap
+54vA1DPHdURxxpxpPx2wmU,Baxter,RAMBO,RAMBO,2022-10-28,44,False,0.578,0.884,9,-5.796,0,0.0652,0.127,0.000923,0.183,0.402,144.053,343449,4,
+6fF0j6An8wZWOlJ9c2bjd9,Demarrage,Jij Bepaalt De Koers,Jij Bepaalt De Koers,2017-06-26,33,False,0.775,0.735,4,-6.214,0,0.0388,0.248,0.0,0.115,0.423,94.993,166053,4,lustrum
+2wNEBBr52TumYRmtYH1ocC,LB aka LABAT,Feel the Beat - Partiboi69 Remix,Feel the Beat,2022-02-02,41,False,0.668,0.991,6,-5.553,1,0.0667,0.00498,0.786,0.202,0.329,144.968,397189,4,jazz house
+5UM3vYLQuMrlouoKmqeEHr,Augustine,Mary Cookins,Mary Cookins,2023-03-10,39,False,0.617,0.671,8,-6.678,1,0.0289,0.132,0.0289,0.221,0.628,109.962,191673,4,swedish indie pop
+6b6oQ7gpDbXmgsxLx6LeKb,CMJ,Peppermint Tea,Autumn Woodlands 2022,2022-10-28,21,False,0.739,0.26,7,-12.264,0,0.107,0.938,0.792,0.108,0.433,81.982,129680,4,
+1GCyyYAFCfFwbu1z5sbI6S,nimino,Opening Credits,Opening Credits,2022-09-07,49,False,0.858,0.357,3,-10.205,1,0.0905,0.133,0.691,0.0985,0.283,120.051,243009,4,melodic house
+2xm5lPpgd4yZ29BFgyskGC,Chill Select,Sun Through The Trees,Sunset Blossom,2021-10-29,19,False,0.693,0.346,7,-13.319,0,0.0446,0.695,0.843,0.118,0.274,95.017,165697,4,focus beats
+49OMJ1prsRA7ZYgrAjz70c,Bee Gees,More Than A Woman,Greatest,1979-01-01,76,False,0.632,0.683,7,-6.434,1,0.0385,0.163,0.00013,0.847,0.701,105.959,197213,4,disco;mellow gold;soft rock
+3oUphdZVPyrsprZ8FgbmQS,Aloe Blacc,I Need A Dollar,Good Things,2010-09-28,68,False,0.84,0.481,6,-7.123,0,0.0336,0.199,0.0,0.0873,0.955,95.497,243053,4,pop soul;r&b
+4S4Mfvv03M1cHgIOJcbUCL,Frank Ocean,In My Room,In My Room,2019-11-02,74,True,0.861,0.647,7,-7.425,1,0.0675,0.594,0.661,0.114,0.67,158.037,133680,4,lgbtq+ hip hop;neo soul
+4kpx4wMn5AGVY5gVN3XbB8,DJ HEARTSTRING,BAE,BAE,2023-02-10,50,False,0.635,0.933,7,-7.264,1,0.0459,0.000333,0.964,0.166,0.876,150.021,232750,4,
+2pACOpgaJOULkKFatoEbAR,Wesley Joseph,Ur_Room,ULTRAMARINE,2021-06-18,56,False,0.602,0.343,0,-9.519,1,0.0817,0.695,0.257,0.0943,0.274,118.985,144053,4,uk alternative hip hop
+5ihS6UUlyQAfmp48eSkxuQ,Fleetwood Mac,Landslide,Fleetwood Mac,1975-07-11,79,False,0.414,0.161,7,-22.32,0,0.0318,0.883,0.000223,0.117,0.423,159.375,199493,4,album rock;classic rock;rock;soft rock;yacht rock
+0uPkCpuoERqrkBL06Art50,John Coltrane,My One And Only Love,John Coltrane And Johnny Hartman,1963-01-01,61,False,0.472,0.0676,0,-16.101,1,0.0352,0.963,0.00286,0.14,0.252,114.416,295240,4,bebop;free jazz;jazz;jazz saxophone;vocal jazz
+5prQBdZry24eScX8jJwS80,The Heavy,Easier,That Kind Of Man,2007-07-23,51,False,0.797,0.464,4,-8.904,1,0.0375,0.00365,0.00176,0.0521,0.635,86.001,162347,4,bath indie;modern blues rock
+0X3swShqPozYoq2p5SkhTx,Samwise,welcome back.,Winter Chill,2018-04-06,50,False,0.759,0.334,2,-14.458,1,0.252,0.975,0.832,0.227,0.826,80.988,76000,4,lo-fi beats
+3XFcUSSbb3ezNem7EnPq2G,Daniel Norgren,Howling Around My Happy Home,Buck,2013-03-01,47,False,0.674,0.276,7,-12.766,0,0.0296,0.107,0.881,0.112,0.76,177.248,614827,4,swedish americana;swedish singer-songwriter
+5h2wrXLGCc3X6lYX1KlYYH,Ogranya,Do You,Best of Project 52,2023-06-30,35,False,0.804,0.314,6,-10.5,0,0.0892,0.128,8.64e-05,0.253,0.889,141.149,136170,4,afro r&b;nigerian pop
+6Y1skSfIA0sNjfabUNtYOT,Guru Griff,tonight,Apex,2017-05-19,47,False,0.875,0.244,3,-18.724,0,0.166,0.967,0.928,0.119,0.48,82.01,87805,4,
+17JtBnNxYdyS1t0ptxpbKL,Oilix,Nightrider,Nightrider,2021-03-15,35,False,0.767,0.409,8,-11.414,0,0.0676,0.0685,0.909,0.108,0.761,82.008,102439,4,lo-fi jazzhop
+0LY4FwDjGq6Z5wj8UHtIbP,Daily J,Stay,Stay,2022-08-26,44,False,0.64,0.681,0,-6.47,1,0.0311,0.161,7.33e-05,0.142,0.554,118.004,199438,4,auckland indie;australian surf rock
+6qoh8fAoY7eVMIIKPKNSWX,Suzan & Freek,De Overkant,Dromen In Kleur,2021-10-29,54,False,0.629,0.57,2,-6.693,1,0.0839,0.116,0.0,0.0861,0.822,79.069,167848,4,dutch pop
+6AtMdpKC5EEzxArCqQEzMG,Mister Modo,Breaking the Blues,World Hop! (Parigo No. 17),2016-05-15,54,False,0.888,0.547,11,-8.493,1,0.0726,0.0526,0.818,0.109,0.378,92.007,152339,4,hip-hop experimental
+3MtP9T0WF4xbIo8vqHYeXM,Dusty Springfield,Spooky,Dusty... Definitely,1968-11-22,71,False,0.752,0.445,4,-12.725,0,0.0338,0.5,0.0,0.0912,0.964,106.283,164173,4,adult standards;british invasion;folk rock;soul;vocal jazz
+7qxDU2QyH24KHW0OSGotVw,The Heavy,Short Change Hero,The House That Dirt Built,2009-10-05,60,False,0.68,0.64,1,-6.691,0,0.0336,0.29,0.00593,0.124,0.738,105.981,322267,4,bath indie;modern blues rock
+3Aox0dHrvzoyA9k8mEYmNq,t e s t p r e s s,FORZ4,FORZ4,2023-09-01,46,False,0.692,0.987,2,-8.213,1,0.0456,0.00386,0.544,0.0621,0.579,150.009,182527,4,
+1pur8kv69XmZqA3uoMEYnH,La Fine Equipe,Tourment d' amour,La Boulangerie 2 (La Fine Equipe & Friends),2011-06-27,64,False,0.749,0.477,4,-6.06,0,0.198,0.153,1.08e-05,0.823,0.882,95.968,133893,4,french indietronica;new french touch
+4RHRb1GhgAsw3uM69k96xt,Palmate,Feeling Blue,Above the Horizon,2020-04-03,33,False,0.64,0.672,11,-11.639,0,0.0465,0.344,0.903,0.109,0.0386,120.001,247636,4,
+708aD6BmFC9KLdeY5uou95,Guru Griff,Long Day,Nature Boi,2019-03-16,42,False,0.81,0.144,10,-18.616,0,0.461,0.959,0.74,0.108,0.67,168.21,102539,4,
+2DHNCWZYmVr1Lv08q5b0kB,Kanye West,Roses,Late Registration,2005-08-30,63,True,0.723,0.465,3,-6.454,0,0.0952,0.259,2.7e-05,0.108,0.513,97.702,245867,4,chicago rap;hip hop;rap
+1YQWosTIljIvxAgHWTp7KP,The Dave Brubeck Quartet,Take Five,Time Out,1959-12-14,68,False,0.454,0.26,8,-13.193,0,0.0401,0.539,0.00078,0.0675,0.598,174.322,324133,5,bebop;jazz;jazz quartet
+5qifKeLMuMMBJIqZgwAZjR,LB aka LABAT,Lambo,Lambo,2022-05-13,36,False,0.848,0.8,5,-6.541,0,0.0438,0.0406,0.555,0.115,0.631,138.028,238946,4,jazz house
+08QcTSovKYpT6d7Tu3WbIc,Artemas,i like the way you kiss me - MRD remix,i like the way you kiss me (remixes),2024-04-05,38,False,0.472,0.97,8,-4.389,0,0.109,2.95e-05,0.0821,0.394,0.618,151.627,256932,4,
+0gegvYa9Mexi7LPnAXN4lV,Suzan & Freek,Slapeloosheid,Iemand Van Vroeger,2023-09-22,52,False,0.533,0.755,8,-6.722,0,0.0977,0.038,1.18e-05,0.218,0.561,167.975,177143,4,dutch pop
+5VWN9QeMmMHkgBzZcZgr9l,Bad Boombox,Pull It Up - Original Mix,The Jambon-Beurre EP,2023-04-07,40,False,0.756,0.977,7,-3.808,1,0.0525,0.000219,0.904,0.0732,0.962,151.044,231258,4,hardgroove
+5mCPDVBb16L4XQwDdbRUpz,Drake,Passionfruit,More Life,2017-03-18,81,True,0.809,0.463,11,-11.377,1,0.0396,0.256,0.085,0.109,0.364,111.98,298941,4,canadian hip hop;canadian pop;hip hop;pop rap;rap
+5b7OgznPJJr1vHNYGyvxau,Frank Sinatra,Fly Me To The Moon (In Other Words),Sinatra/Basie: The Complete Reprise Studio Recordings,1962-12-10,73,False,0.668,0.26,7,-14.256,1,0.0523,0.453,0.0,0.0621,0.368,119.416,147000,4,adult standards;easy listening;lounge
+0d7rAcuh3djewMUKGxyVG8,Antônio Carlos Jobim,Drinking Water (Aqua de Beber),Sinatra/Jobim: The Complete Reprise Recordings,1967-03,54,False,0.66,0.557,9,-10.925,1,0.029,0.702,0.0412,0.122,0.62,125.463,155440,4,bossa nova;brazilian classical;brazilian jazz;latin classical;mpb;violao
+2d4jDuvS8cx04oorjIheLH,Suff Daddy,Interludio De Medicamento,Basically Sober,2022-02-25,51,False,0.82,0.0808,4,-13.769,0,0.193,0.685,0.961,0.171,0.61,80.312,63000,4,abstract beats;jazz boom bap
+33PwTxfVSWTN3fd91q4Wsj,The Cancel,Summer Tape,Reply from Space,2011-09-19,47,False,0.75,0.585,3,-9.596,1,0.0998,0.292,0.833,0.151,0.528,85.023,113109,4,
+1lY2re0dd5ZVRy31dq4Nz3,Stenfert,Hoogtevrees,Eerlijk,2022-07-22,36,False,0.774,0.428,0,-10.371,0,0.0745,0.744,0.0107,0.0971,0.715,84.026,154107,4,
+46IKdGs9GbDfbKBhiTwB3i,Magic City Hippies,Therapy,Water Your Garden,2022-01-21,41,False,0.628,0.514,8,-8.405,0,0.0859,0.437,0.00114,0.232,0.655,75.942,165000,4,miami indie
+2h7c8sfEWiKhDCWlt2KekF,Adventure Time,Island Song (Come Along with Me) [feat. Ashley Eriksson],Adventure Time: Come Along with Me (Original Soundtrack),2018-09-04,61,False,0.732,0.467,9,-12.628,0,0.036,0.793,0.0,0.247,0.845,119.988,108722,4,pov: indie
+4PHqFuq0cfUP8LblrwcBaK,Q Funktion,Like I Usually Do,Like I Usually Do,2013-05-15,59,False,0.771,0.482,11,-9.262,1,0.0799,0.222,0.57,0.156,0.146,90.537,168149,4,electro dub
+0IMWXj2yjfqI74IbKD7icc,The Cancel,Run,No Way to Stay,2017-04-25,57,False,0.78,0.366,7,-6.223,0,0.0838,0.0286,0.59,0.0491,0.588,172.062,156977,4,
+2rLwz4Eihs3PXhx7e4qhcN,Moderator,Funk for Food,Funk for Food,2017-02-12,50,False,0.671,0.707,7,-9.967,1,0.0434,0.0231,0.397,0.113,0.436,91.876,115282,4,greek downtempo
+6Hcm7xs5k4VJupADnlXydb,MRD,Feel So Close,Feel So Close,2024-01-19,37,False,0.513,0.961,7,-4.391,1,0.0353,0.00367,0.782,0.0762,0.844,150.042,321000,4,hard techno;norwegian techno
+5fuJMvVKNeTbIcflFTLqg6,Protassov,I Wonder,Shalina Music,2015-02-11,53,False,0.798,0.781,11,-7.392,0,0.0912,0.153,0.0664,0.101,0.421,80.032,247427,4,nu jazz
+0qRR9d89hIS0MHRkQ0ejxX,Daryl Hall & John Oates,Rich Girl,Bigger Than Both Of Us,1976-08-01,84,False,0.573,0.683,5,-6.644,1,0.176,0.461,0.0,0.0935,0.817,169.519,142787,4,album rock;classic rock;mellow gold;rock;singer-songwriter;soft rock;yacht rock
+0jJ9zH290VJPwzpxQriNsl,Folamour,Isla Nostalgia,Manifesto,2023-05-26,21,False,0.653,0.384,1,-8.611,1,0.0379,0.00187,0.836,0.0816,0.671,122.998,394000,4,jazz house;lo-fi house
+40I4w5BaDv6QNCTfjuPxvI,Folamour,Friends (feat. Tim Ayre),Manifesto,2023-05-26,24,False,0.58,0.468,1,-6.88,1,0.0377,0.131,0.000424,0.278,0.73,186.07,199893,4,jazz house;lo-fi house
+7FgjfoVQ6Wn1Nm53N5Upn8,J.J. Cale,Crazy Mama,Naturally,1972,58,False,0.828,0.0786,11,-19.45,1,0.0418,0.7,0.213,0.0769,0.485,96.178,142867,4,blues;blues rock;folk rock;roots rock;singer-songwriter
+3GZD6HmiNUhxXYf8Gch723,Frank Ocean,Lost,channel ORANGE,2012-07-10,83,True,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,0.497,123.061,234093,4,lgbtq+ hip hop;neo soul
+4fmMlfYmxRNdTEWXBJyaZa,Narciss,LOVE 4 LIFE,LOVE 4 LIFE,2023-07-14,39,False,0.629,0.9,11,-8.877,0,0.0459,0.00836,0.882,0.094,0.913,135.011,173810,4,
+6WR6Rd2dCpnwDda3ehLEPX,Folamour,Poundland Anthem,Manifesto,2023-05-26,41,False,0.724,0.838,2,-6.869,0,0.0601,0.0114,0.667,0.108,0.451,125.003,355480,4,jazz house;lo-fi house
+2wCgQVCF0jhDWiNTFjti7b,Diffrent,A Little Closer,A Little Closer,2024-05-10,69,False,0.633,0.842,7,-5.976,0,0.0341,0.0362,0.666,0.149,0.572,145.015,175208,4,
+44ItzRkfG59n0roW7sNbmm,Folamour,When a Piano Saves the Day,Manifesto,2023-05-26,22,False,0.64,0.584,6,-7.172,0,0.0362,0.0368,0.908,0.0712,0.543,129.06,332520,4,jazz house;lo-fi house
+1D0yTEUbDqtlabrI4wcT5F,Gotu Jim,Honderd Duizend Rondjes (Tjade Remix),Niet Geslapen Wel Gedoucht - Remixes,2023-10-13,35,False,0.582,0.696,9,-8.266,1,0.0363,0.00334,0.38,0.0838,0.225,131.99,359728,4,dutch hip hop;lustrum
+1k1Bqnv2R0uJXQN4u6LKYt,Bill Withers,Ain't No Sunshine,Just As I Am,1971-05-01,83,False,0.527,0.415,4,-11.451,0,0.122,0.457,1.72e-05,0.117,0.515,78.169,125093,4,classic soul;funk;quiet storm;soul
+2AMysGXOe0zzZJMtH3Nizb,Stromae,Formidable,racine carrée,2013-01-01,71,True,0.513,0.629,4,-9.055,0,0.19,0.0986,0.0,0.146,0.498,70.568,213933,4,belgian pop;g-house
+1gwVDu3zIbLfufg69APtCT,Gotu Jim,Oranje Etiket,Oranje Etiket,2019-02-22,36,True,0.741,0.556,7,-6.904,0,0.113,0.427,0.0,0.104,0.71,79.043,193605,4,dutch hip hop;lustrum
+6Fn1WAkDPjF1Tszdf59bWy,Folamour,Freedom,Manifesto,2023-05-26,49,False,0.766,0.769,9,-7.159,0,0.043,0.177,0.0779,0.0548,0.92,108.004,205893,4,jazz house;lo-fi house
+7b4twDZXjQf8gyQGSvySZd,Chris Stussy,All Night Long,All Night Long,2023-05-26,60,False,0.768,0.703,5,-9.928,0,0.0466,0.00731,0.278,0.0977,0.788,133.01,234526,4,dutch tech house
+0dGqP4VickYjtIaB5VOt4H,Russ,3:15 (Breathe),3:15 (Breathe),2021-05-21,77,True,0.451,0.627,8,-4.59,1,0.127,0.591,0.00958,0.118,0.77,74.69,184000,4,hawaiian hip hop;pop rap
+04CyMEHliadfQWMUJb1w99,¥$,BURN,VULTURES 1,2024-02-09,54,True,0.6,0.885,11,-6.21,0,0.393,0.0157,6.02e-06,0.856,0.736,105.003,111458,4,
+3hRV0jL3vUpRrcy398teAU,Lord Huron,The Night We Met,Strange Trails,2015-04-06,90,False,0.448,0.369,9,-9.514,1,0.0452,0.968,0.272,0.638,0.0998,174.097,208212,3,indie folk;stomp and holler
+2TdDRjNiF1HuRvnclprnce,MIKA,Grace Kelly,Life In Cartoon Motion,2007-02-05,55,False,0.677,0.824,0,-5.752,1,0.0449,0.0268,0.0164,0.363,0.696,122.223,187733,4,electropop
+4Pdga2WbSduucrMZeNMFpd,X CLUB.,Block Rockin,Block Rockin,2023-08-31,33,False,0.631,0.994,4,-7.184,0,0.0802,6.53e-05,0.418,0.0926,0.503,144.998,298575,4,australian techno
+6sI5m6cabkKWBuDh0kXMKk,Belleruche,Anything You Want - Not That,The Express,2008-10-13,65,False,0.954,0.777,2,-7.935,0,0.0422,0.0541,0.786,0.111,0.952,122.32,202480,4,bboy;electro swing;nu jazz
+7kBYPyaxF3oE9EgjOMpGKs,Malugi,Reach Out,Reach Out,2023-06-16,53,False,0.667,0.94,2,-7.445,0,0.0385,0.0006,0.915,0.079,0.875,142.995,138000,4,
+4yA2SM7XCLkSgkBUSoZb5S,Travis,Sing,The Invisible Band,2001-06-12,69,False,0.33,0.905,4,-5.047,1,0.0497,0.000233,8.14e-06,0.0712,0.259,163.142,228800,4,britpop
+22ykS8KWpd2r4zcRZ0XMK5,Metro Boomin,Dreamcatcher (feat. Swae Lee & Travis Scott),NOT ALL HEROES WEAR CAPES (Deluxe),2018-11-06,65,True,0.674,0.23,1,-10.363,0,0.203,0.191,0.0,0.104,0.102,173.963,211920,4,rap
+4feXcsElKIVsGwkbnTHAfV,Frank Sinatra,Somethin' Stupid,The World We Knew,1967-08,77,False,0.257,0.338,4,-12.902,1,0.0357,0.736,0.0,0.252,0.544,207.356,162493,4,adult standards;easy listening;lounge
+2P0viQycMetMJ2Gu5aj4Cr,Malugi,Really Happy,Really Happy,2023-11-30,49,False,0.654,0.964,2,-6.854,1,0.0398,0.000287,0.186,0.33,0.639,145.022,167500,4,
+3IgUCMkHS4RgHdngIlporF,Halsey,Sorry,hopeless fountain kingdom (Deluxe Plus),2017-06-02,68,False,0.513,0.25,5,-9.376,0,0.0367,0.913,0.0,0.117,0.351,74.103,220541,4,electropop;etherpop;indie poptimism;pop
+2ARMv3BeIvezKw9fTvVcDI,DOLKINS,Max&Chlo;é,Soundtrack Life is Strange Cover partie 1,2016-02-24,43,False,0.55,0.254,7,-19.633,1,0.0373,0.861,0.882,0.111,0.0397,80.014,168388,4,
+3ZCTVFBt2Brf31RLEnCkWJ,Billie Eilish,everything i wanted,everything i wanted,2019-11-13,82,False,0.704,0.225,6,-14.454,0,0.0994,0.902,0.657,0.106,0.243,120.006,245426,4,art pop;pop
+7M2hVYbbsSM2nNxsWIkspL,MRD,Midsommar,Løvehjerte,2023-05-12,21,False,0.443,0.976,11,-6.254,0,0.0913,0.00128,0.354,0.239,0.392,75.028,275201,4,hard techno;norwegian techno
+3lsA25LMGFSWEht6ysngKx,Ollie Lishman,2 THA 3,POSITION CRITICAL,2023-05-26,34,False,0.641,0.97,2,-4.781,1,0.11,5.02e-05,0.335,0.0951,0.312,143.982,360633,4,hardgroove
+3gZs2MpDVNJb0CnPwkU3m9,Odyssey,Going Back To My Roots (Original Radio Version),Going Back To My Roots,1985,44,False,0.693,0.918,11,-6.429,0,0.0632,0.225,0.00106,0.0547,0.765,111.128,259587,4,disco;hammond organ;post-disco
+52iLDrSoRtf9lcgFuLVfqE,Sasha Alex Sloan,Older,Older,2018-11-09,70,False,0.681,0.292,11,-9.599,1,0.0483,0.743,0.0,0.0974,0.162,64.002,191002,4,alt z
+6J2LdBN97cDWn0MLxYh9HB,Noah Cyrus,July,THE END OF EVERYTHING,2020-05-15,81,False,0.708,0.186,9,-8.953,0,0.042,0.868,0.0,0.0779,0.322,72.541,156106,4,alt z;pop
+0RC23Ua9z3HUD9ssrX2VGj,Gorillaz,Lake Zurich,The Now Now,2018-06-29,46,False,0.618,0.886,2,-6.099,1,0.033,0.000108,0.881,0.0821,0.779,115.082,253627,4,alternative hip hop;modern rock;rock
+1lbXEepatjRVjoG8pZMtdp,Fleetwood Mac,Dreams,Greatest Hits,1988-11-21,65,False,0.823,0.338,0,-15.899,1,0.0413,0.139,0.00129,0.5,0.785,120.473,254453,4,album rock;classic rock;rock;soft rock;yacht rock
+4CxFN5zON70B3VOPBYbd6P,Jeremy Zucker,you were good to me,brent,2019-05-03,70,False,0.561,0.0848,2,-15.099,1,0.0404,0.913,2.62e-05,0.112,0.206,102.128,219147,4,alt z;electropop;pop
+3Tc57t9l2O8FwQZtQOvPXK,Billie Eilish,my strange addiction,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,73,False,0.939,0.305,8,-10.952,0,0.354,0.35,0.000169,0.105,0.563,100.029,179889,4,art pop;pop
+1fOkmYW3ZFkkjIdOZSf596,Frank Ocean,Pink Matter,channel ORANGE,2012-07-10,79,True,0.392,0.233,11,-11.012,0,0.0587,0.951,0.000322,0.106,0.494,176.569,268813,3,lgbtq+ hip hop;neo soul
+4FmCUATNIarCQh72JYdvnm,Frank Sinatra,That's Life,That's Life,1966-11,71,False,0.56,0.434,4,-14.151,0,0.0729,0.55,0.0,0.346,0.664,112.803,187040,3,adult standards;easy listening;lounge
+1TQXIltqoZ5XXyfCbAeSQQ,Sasha Alex Sloan,Dancing With Your Ghost,Dancing With Your Ghost,2019-06-28,78,False,0.629,0.328,11,-8.284,1,0.029,0.768,2.5e-05,0.103,0.389,74.953,197732,4,alt z
+4IhCpufYdnbCIjwWw7tqty,Ciara,"1, 2 Step - DJ HEARTSTRING Remix","1, 2 Step (DJ HEARTSTRING Remix)",2023-07-28,51,False,0.709,0.951,5,-5.84,0,0.0523,0.00153,0.246,0.0536,0.807,145.994,185953,4,dance pop;hip pop;pop;r&b;urban contemporary
+5SaapweQAEx7X1R47ItZ75,Suzan & Freek,Goud,Dromen In Kleur,2021-10-29,57,False,0.736,0.486,0,-7.627,0,0.043,0.162,0.0,0.121,0.562,110.026,202943,4,dutch pop
+6dBUzqjtbnIa1TwYbyw5CM,TV Girl,Lovers Rock,French Exit,2014-06-05,87,False,0.559,0.871,5,-5.338,0,0.0397,7.53e-06,0.00545,0.096,0.572,104.97,213920,4,pov: indie
+6FZDfxM3a3UCqtzo5pxSLZ,Halsey,Without Me,Manic,2020-01-17,78,True,0.752,0.488,6,-7.05,1,0.0705,0.293,9.2e-06,0.0936,0.533,136.07,201661,4,electropop;etherpop;indie poptimism;pop
+1PUz8gu1K3xfes61hXm5ht,DOLKINS,Blackwell Academy,Soundtrack Life is Strange Cover partie 1,2016-02-24,41,False,0.521,0.0802,5,-25.493,1,0.0442,0.986,0.936,0.109,0.161,120.01,113294,4,
+7bdYxWPCs46dQ0XLwySOyv,Jeremy Zucker,better off,glisten,2018-05-04,58,False,0.707,0.322,8,-12.46,0,0.0371,0.745,9.26e-05,0.137,0.459,98.892,193947,4,alt z;electropop;pop
+6CcJMwBtXByIz4zQLzFkKc,Billie Eilish,i love you,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,80,False,0.421,0.131,0,-18.435,1,0.0382,0.952,0.00453,0.109,0.12,137.446,291796,4,art pop;pop
+0TzbmxnYrlMV6dEln2l9nb,MIKA,Happy Ending,Life In Cartoon Motion,2007-02-05,62,False,0.564,0.437,1,-8.375,1,0.0285,0.552,0.0,0.217,0.307,96.018,273800,4,electropop
+5nU7dvOfzYs9QVVL7YVNPE,Stan Getz,Corcovado (Quiet Nights Of Quiet Stars) - Single Version,Getz/Gilberto - Expanded Edition,1964-03-01,60,False,0.531,0.198,9,-15.811,0,0.039,0.952,0.00267,0.119,0.437,128.043,139987,4,bebop;bossa nova;cool jazz;jazz;jazz saxophone;latin jazz;samba-jazz;vocal jazz
+2bfGNzdiRa1jXZRdfssSzR,Gorillaz,Dirty Harry,Demon Days,2005-05-23,72,False,0.625,0.877,10,-7.176,0,0.162,0.0315,0.0811,0.672,0.865,192.296,230426,4,alternative hip hop;modern rock;rock
+6r2JV75tE0vNgNCv4HKsBC,Jeremy Zucker,scared,brent,2019-05-03,56,False,0.583,0.075,5,-15.843,1,0.0726,0.933,1.4e-06,0.111,0.347,108.418,207520,4,alt z;electropop;pop
+7cf6CqdnZLTXHLu8x34Nt7,Stan Pellegrino,Scuzi Amigo,Scuzi Amigo,2023-05-17,8,False,0.655,0.7,2,-9.661,0,0.0966,0.408,0.00165,0.107,0.487,124.927,284227,4,
+5n3ukwahCHdDfgDN4Vs4V0,DJ HEARTSTRING,I've Been Meaning To Tell You,Teenage Dreams,2023-04-07,44,False,0.701,0.977,6,-6.341,1,0.0527,0.00043,0.925,0.106,0.725,148.001,241750,4,
+7i0d5gmak7nHrBAZJG3eSW,Roosevelt,Ordinary Love - Folamour Remix,Ordinary Love (Folamour Remix),2024-01-25,39,False,0.754,0.922,9,-7.751,0,0.0527,0.00534,0.67,0.0809,0.86,130.01,325706,4,indie emo;nu disco;shiver pop
+7MOX3ibncypw3xGb4HZVFA,BLØF,Zoutelande (feat. Geike),Aan,2017-05-19,53,False,0.67,0.641,6,-7.198,0,0.0285,0.223,2.42e-05,0.141,0.891,129.016,223267,4,dutch pop;dutch rock
+3G6hD9B2ZHOsgf4WfNu7X1,Lorde,Team,Pure Heroine,2013-09-27,75,False,0.691,0.578,6,-7.436,1,0.106,0.167,0.0,0.305,0.412,99.984,193059,4,art pop;metropopolis;nz pop;pop
+2BeoGYw46Le2cYafiZwxOr,Elley Duhé,MONEY ON THE DASH - Marlon Hoffstadt aka DJ Daddy Trance Remix,MONEY ON THE DASH - Marlon Hoffstadt aka DJ Daddy Trance Remix,2024-03-01,46,False,0.676,0.935,10,-6.34,0,0.0653,4.31e-05,0.815,0.0325,0.784,150.984,306026,4,alt z
+5EW0i7UltRvODlUXWOVE7l,Franck,Get Down,Numbaz EP,2022-01-14,43,False,0.727,0.951,7,-7.89,1,0.112,0.00294,0.0857,0.11,0.789,143.931,307967,4,
+5tiTVSryX1Hu09cPsNvaIR,Suzan & Freek,Slapeloosheid,Slapeloosheid,2023-01-05,50,False,0.534,0.752,8,-6.715,0,0.0958,0.0381,1.13e-05,0.213,0.552,167.963,177143,4,dutch pop
+1eCTQhsNA31FcwyNcJcf86,Sista Prod,"Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)","Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjamin & Rxseboy)",2020-08-13,62,False,0.702,0.616,6,-4.903,1,0.326,0.686,0.0,0.145,0.507,80.482,156188,4,sad lo-fi
+5DqdesEfbRyOlSS3Tf6c29,Ali Gatie,It's You,YOU,2019-11-08,76,False,0.732,0.463,11,-6.972,0,0.0287,0.374,0.0,0.194,0.397,95.971,212607,4,canadian hip hop
+6Kkt27YmFyIFrcX3QXFi2o,Lorde,Liability,Melodrama,2017-06-16,68,False,0.587,0.229,10,-11.254,0,0.128,0.92,0.0,0.1,0.379,75.67,171728,4,art pop;metropopolis;nz pop;pop
+6wsqVwoiVH2kde4k4KKAFU,Travis Scott,I KNOW ?,UTOPIA,2023-07-28,84,True,0.927,0.619,5,-4.441,0,0.0539,0.0186,0.0,0.104,0.817,117.995,211582,4,rap;slap house
+0CZ8lquoTX2Dkg7Ak2inwA,King Princess,1950,1950,2018-02-23,65,True,0.6,0.535,4,-7.043,1,0.107,0.648,4.7e-06,0.162,0.269,71.912,225133,4,alt z;indie pop;nyc pop
+2unIXIeXCYSVte41IuRHTz,Junior Jack,Thrill Me,Trust It,2004-02-09,34,False,0.647,0.971,7,-8.778,1,0.0783,0.000406,0.898,0.4,0.159,124.992,354307,4,deep house;disco house;filter house;tech house;vocal house
+4VyOQKexcxUcUmEwtcVnnd,Suzan & Freek,Honderd Keer,Iemand Van Vroeger,2023-09-22,51,False,0.692,0.61,5,-7.548,1,0.0361,0.0551,0.0,0.254,0.599,116.071,196034,4,dutch pop
+2VxOWMxVKqoabIH5L9rQoL,Junior Jack,Stupidisco (Elektrik Disko Remix),Stupidisco (Jolyon Petch Remix),2021-08-13,47,False,0.782,0.756,1,-7.341,1,0.167,0.129,0.662,0.274,0.569,120.014,181000,4,deep house;disco house;filter house;tech house;vocal house
+25yup6WYnPoITrfzhkBLmt,Powfu,I Can't Sleep,"Some Boring, Love Stories",2018-12-12,59,True,0.805,0.479,6,-9.238,0,0.363,0.182,3.41e-06,0.346,0.363,80.454,152500,4,sad lo-fi;sad rap
+4osgfFTICMkcGbbigdsa53,Frank Ocean,Novacane,Novacane,2011-01-01,81,True,0.762,0.508,3,-9.112,1,0.0919,0.0584,0.00126,0.16,0.37,93.51,302347,4,lgbtq+ hip hop;neo soul
+4pdhkd4q0efLlNXGFWHR99,The Opposites,Slaap,De Fik Erin,2008-01-01,48,False,0.699,0.871,10,-3.256,0,0.144,0.0558,0.0,0.144,0.73,100.055,212707,4,dutch hip hop
+5TdsylMARn0PxbHqrmmJoS,Strike,"U Sure Do (Strike 7"" Mix)",U Sure Do,1994,55,False,0.683,0.93,3,-7.878,0,0.0499,0.0189,0.38,0.344,0.826,127.969,229172,4,eurodance
+2kJwzbxV2ppxnQoYw4GLBZ,JP Saxe,If the World Was Ending (feat. Julia Michaels),If the World Was Ending (feat. Julia Michaels),2019-10-17,73,False,0.464,0.473,1,-10.086,1,0.129,0.866,0.0,0.109,0.604,75.801,208687,4,alt z;canadian contemporary r&b;singer-songwriter pop
+5DS8MJPor5YAoo2Y9ElFzY,Gizmo Varillas,Paraiso,El Dorado,2016-11-25,56,False,0.665,0.67,8,-11.17,0,0.0451,0.856,0.833,0.0818,0.421,107.959,103227,4,tropical alternativo
+5q4BpnMrYEFzLO0dYODj6J,Lorde,The Louvre,Melodrama,2017-06-16,61,False,0.664,0.382,0,-9.977,1,0.047,0.239,0.00749,0.0943,0.126,123.214,271088,4,art pop;metropopolis;nz pop;pop
+6uvcFhpfRLKrT4pNHueLQN,Dale Howard,Real Love,Real Love,2020-07-03,49,False,0.621,0.854,4,-6.732,0,0.0552,0.0116,0.745,0.415,0.681,124.003,145560,4,tech house;uk tech house
+2LMkwUfqC6S6s6qDVlEuzV,Frank Ocean,White Ferrari,Blonde,2016-08-20,84,False,0.501,0.0958,0,-15.605,1,0.0433,0.77,0.0,0.298,0.204,108.741,248808,4,lgbtq+ hip hop;neo soul
+1DoECePnMuLtpLQSCZqwtK,Powfu,ill come back to you (feat. Sarcastic Sounds & Rxseboy),poems of the past,2020-05-29,56,False,0.652,0.483,8,-9.964,0,0.291,0.658,0.0,0.393,0.372,75.987,134881,4,sad lo-fi;sad rap
+1acysIysfLZTWdHhF3Vr33,Ken@Work,It's Guaranteed,It's Guaranteed,2024-02-02,9,False,0.901,0.886,7,-4.648,0,0.0392,0.00634,0.00106,0.0773,0.972,120.018,289258,4,funky house
+0Uwq5TKfVfanVZzoVCz620,KETTAMA,B O D Y,Bucklyn Bridge EP,2018-07-16,43,False,0.875,0.945,6,-7.564,0,0.0669,0.00448,0.809,0.0802,0.761,128.982,305271,4,irish electronic
+19lsuvcZTu2byAFvz88wpM,Mighty Mouse,The Spirit,The Spirit,2018-10-19,27,False,0.647,0.929,11,-5.213,0,0.098,0.00224,0.386,0.149,0.177,126.018,194287,4,
+2C0KFbb4v9CNWR5c9jWcKC,Gorillaz,Andromeda (feat. DRAM),Humanz (Deluxe),2017-04-28,62,False,0.788,0.472,0,-9.021,1,0.0475,0.003,0.0322,0.59,0.257,130.084,197547,4,alternative hip hop;modern rock;rock
+2c4YggJQomYXSq4qLXrn4M,MIKA,Lollipop,Life In Cartoon Motion,2007-02-05,47,False,0.7,0.623,1,-5.351,1,0.0789,0.0375,1.03e-05,0.133,0.865,95.992,183533,4,electropop
+75rGONmoi48LLYBFaGiYsv,Jayda G,Both Of Us - Edit,Both Of Us,2020-05-26,63,False,0.735,0.71,11,-10.222,1,0.0766,0.00851,0.762,0.0684,0.507,123.962,229425,4,canadian electronic
+2tudvzsrR56uom6smgOcSf,Future,Like That,WE DON'T TRUST YOU,2024-03-22,87,True,0.814,0.676,11,-4.67,0,0.231,0.00709,1.28e-05,0.119,0.312,162.012,267707,4,atl hip hop;hip hop;rap;southern hip hop;trap
+06KyNuuMOX1ROXRhj787tj,Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),Nine Track Mind,2016-01-29,78,False,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,217707,4,pop;viral pop
+3p8iG863bPsafyReUXaqXO,Powfu,Breakfast With the Moon,Breakfast With the Moon,2018-10-14,47,False,0.697,0.354,5,-15.064,1,0.206,0.892,2.48e-06,0.0539,0.575,78.007,163109,4,sad lo-fi;sad rap
+0ciMj8GiQ2eKEAvH3FoMKZ,CH4YN,How I Fell In Love,How I Fell In Love,2023-03-03,39,False,0.613,0.547,8,-13.224,1,0.157,0.087,0.569,0.126,0.455,145.116,112552,4,hypertechno
+4GL9GMX9t7Qkprvf1YighZ,Travis Scott,CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee),UTOPIA,2023-07-28,70,True,0.682,0.764,1,-6.314,1,0.0327,0.000779,0.0089,0.373,0.248,125.018,258843,4,rap;slap house
+5qaEfEh1AtSdrdrByCP7qR,Imagine Dragons,Demons,Night Visions,2012-09-04,85,False,0.5,0.71,3,-3.015,1,0.0339,0.19,0.00025,0.269,0.419,89.929,177507,4,modern rock;pop;rock
+1kmhdq0RfZFdfSLaTsiTVi,MIKA,"Relax, Take It Easy",Life In Cartoon Motion,2007-02-05,55,False,0.698,0.693,6,-8.218,0,0.0329,0.0567,0.0161,0.129,0.608,121.859,270000,4,electropop
+1zB4vmk8tFRmM9UULNzbLB,Imagine Dragons,Thunder,Evolve,2017-06-23,86,False,0.604,0.822,0,-4.833,1,0.0438,0.00672,0.134,0.147,0.288,167.997,187147,4,modern rock;pop;rock
+20W8nSNWnvPyYxhERpW2XS,Gotu Jim,Emma,Niet Geslapen Wel Gedoucht,2023-01-13,28,False,0.67,0.945,0,-6.368,1,0.0533,0.00548,0.0347,0.0935,0.494,149.984,169585,4,dutch hip hop;lustrum
+2hYHeXotP6BcWl2BUnLQfi,Oliver Dollar,Pushing On - Radio Edit,Pushing On (Radio Edit),2014-08-29,50,False,0.737,0.8,6,-4.46,0,0.0404,0.00275,0.00369,0.0991,0.734,121.985,163387,4,fidget house
+3qqEFTIFcZuWJYBtshrxca,Mella Dee,Techno Disco Tool - Radio Edit,Techno Disco Tool (Radio Edit),2017-12-01,52,False,0.766,0.947,3,-6.097,0,0.0361,0.00504,0.0513,0.282,0.71,129.973,194308,4,bass house
+58ZqPqb7Xx4H93XANHafIH,MIKA,Stuck In The Middle,Life In Cartoon Motion,2007-02-05,37,False,0.747,0.565,5,-7.095,1,0.0258,0.369,5.48e-06,0.109,0.961,93.832,248800,4,electropop
+68KweGBSQfD2jrUvKMuASE,Alpha Tracks,To Nights - KI/KI Remix,slash 001,2022-07-13,37,False,0.714,0.886,5,-9.019,1,0.0484,0.038,0.878,0.116,0.341,148.006,363243,4,austrian techno
+6B4XLVEw7yUPLmghRwuisa,mischluft,imma,imma,2022-10-24,47,False,0.754,0.58,11,-10.869,1,0.0774,0.0227,0.204,0.112,0.353,150.023,245200,4,
+2uuvHEK3B5fvP3uh1hr5Ls,t e s t p r e s s,U,U,2023-07-14,47,False,0.645,0.946,2,-7.061,1,0.0503,0.176,0.776,0.145,0.285,139.933,182160,4,
+0N1sqwppd1BwhNdjcIDEG2,Suzan & Freek,Blauwe Dag,Gedeeld Door Ons,2019-09-27,53,False,0.704,0.571,11,-7.319,1,0.0463,0.245,0.0,0.299,0.494,98.007,182695,4,dutch pop
+4ZJOATYd35dFCb8b9PasEM,Robbie Rivera,My Body Moves - Soul Speech Remix,My Body Moves (Remix),2020-06-19,47,False,0.587,0.962,0,-3.364,0,0.0345,0.00196,0.513,0.645,0.28,122.983,158049,4,circuit;house;tribal house
+2hXBS8q9rGMovfG1S8FB4F,Antônio Carlos Jobim,Wave,Wave,1967-06-15,61,False,0.551,0.314,7,-20.679,1,0.0337,0.83,0.831,0.0861,0.873,144.926,176907,4,bossa nova;brazilian classical;brazilian jazz;latin classical;mpb;violao
+4iqtDvbICWuBERMTz9cz41,Marlon Hoffstadt,Call Me,Call Me,2023-05-19,59,False,0.608,0.995,2,-6.785,1,0.0406,0.00422,0.779,0.0823,0.96,144.951,139000,4,deep euro house
+6NT2Yovx1t0mMvbwBzRsYc,Marlon Hoffstadt,Day 'N' Night,Day 'N' Night,2023-08-11,53,False,0.691,0.734,7,-7.037,1,0.0537,0.00104,0.0836,0.0901,0.733,146.966,200040,4,deep euro house
+5e9TFTbltYBg2xThimr0rU,Fleetwood Mac,The Chain - 2004 Remaster,Rumours (Super Deluxe),1977-02-04,81,False,0.545,0.67,9,-8.81,1,0.0496,0.009,0.000822,0.0451,0.481,151.553,270213,4,album rock;classic rock;rock;soft rock;yacht rock
+7N1Vjtzr1lmmCW9iasQ8YO,Mobb Deep,Survival of the Fittest,The Infamous,1995-04-25,69,True,0.813,0.703,11,-5.077,0,0.268,0.125,1.26e-06,0.237,0.241,94.828,224533,4,east coast hip hop;hardcore hip hop;hip hop;queens hip hop
+0eOcjJgpO8XdJbPMYJgKqq,A-Trak,Coming Home,Coming Home,2020-02-21,55,False,0.786,0.803,5,-5.21,1,0.164,0.128,0.0167,0.266,0.598,123.002,190277,4,canadian electronic;edm;electro house;electronic trap;fidget house;house;turntablism
+2SCP5oOX5OSp5RT83h2rs0,The Shapeshifters,Lola's Theme - Radio Edit,Lola's Theme,2004-01-01,65,False,0.753,0.835,5,-4.631,0,0.0533,0.000842,8.74e-05,0.13,0.669,123.943,207067,4,disco house;diva house;vocal house
+4WbSbQyu0PXzlKZ9mVDRX8,Phil Fuldner,That Girl,That Girl,2022-01-07,56,False,0.732,0.969,5,-3.812,0,0.0576,0.000764,0.074,0.177,0.675,122.05,148583,4,disco house
+56RdOnW3PjY4gcPSPcIc4R,MIKA,Any Other World,Life In Cartoon Motion,2007-02-05,39,False,0.533,0.243,3,-11.736,1,0.0327,0.877,5.96e-05,0.12,0.262,132.048,259160,4,electropop
+5UM6P3y6794GYNOzZvj2zh,Butch,I Want You,I Want You,2023-05-05,65,False,0.732,0.88,1,-5.836,0,0.101,0.00407,0.00929,0.0635,0.863,125.019,187286,4,acid techno;frankfurt electronic;german techno;minimal tech house;minimal techno
+67zr6xdiSAhsuyvL2Dczc1,Inner City,Good Life (Remastered),Good Life (Remastered),2017-08-24,46,False,0.65,0.921,4,-3.711,0,0.0563,0.000943,0.619,0.0588,0.77,120.941,196364,4,detroit house;diva house
+7blWEpws63flJYjkyNhGya,WEISS,I Need Some,I Need Some,2022-10-28,35,False,0.722,0.966,9,-4.422,1,0.0842,0.0336,0.59,0.238,0.194,125.015,142200,4,house;tech house;uk dance;uk house
+34xGLuxM0rkxhCVyMSqwJO,Milky Chance,Stolen Dance,Sadnecessary,2013-05-31,80,False,0.884,0.581,11,-8.813,1,0.0378,0.427,0.000206,0.0759,0.728,114.016,313684,4,german pop;modern rock
+02xbHcxLcT7t9K3hNGiFul,Zsak,Feel The Love - Radio Edit,Feel The Love,2019-03-18,41,False,0.739,0.964,2,-3.542,1,0.177,0.0978,0.0936,0.268,0.912,123.007,171707,4,funky house;funky tech house
+3Wx98ijEDnsxyMYePCuFNI,Pusha T,Dreamin Of The Past (feat. Kanye West),It's Almost Dry,2022-04-22,59,True,0.594,0.913,6,-2.372,0,0.255,0.655,0.0,0.423,0.897,80.302,173633,4,gangster rap;hip hop;pop rap;rap;southern hip hop;trap;virginia hip hop
+5B2Fil0dJNfob1W8gpL5E4,ESSEL,Love Vibration,Love Vibration,2021-10-08,58,False,0.773,0.903,11,-5.279,1,0.0417,0.00171,0.617,0.0476,0.762,123.926,180488,4,tech house
+6TaqooOXAEcijL6G1AWS2K,Snakehips,All My Friends (feat. Tinashe & Chance the Rapper),All My Friends (feat. Tinashe & Chance the Rapper),2015-10-21,68,True,0.681,0.521,0,-5.849,1,0.141,0.12,8.41e-05,0.108,0.181,94.997,229747,4,electropop;uk dance
+6vOReYWXVpmVRKKM0xeGdR,MIKA,Love Today,Life In Cartoon Motion,2007-02-05,45,False,0.669,0.91,6,-4.989,0,0.0639,0.0284,0.00447,0.109,0.564,124.467,235173,4,electropop
+2c9iVAV8Vte2POKrVZFC02,Powfu,I Could Never Be Loved,I Could Never Be Loved,2018-06-18,49,False,0.911,0.255,8,-15.257,1,0.153,0.499,0.000246,0.0937,0.244,137.994,213943,4,sad lo-fi;sad rap
+3zBhihYUHBmGd2bcQIobrF,Otis Redding,(Sittin' On) the Dock of the Bay,The Dock of the Bay (Mono),1968,81,False,0.768,0.367,2,-11.226,1,0.0315,0.683,1.79e-05,0.081,0.532,103.621,163756,4,classic soul;memphis soul;soul;soul blues;southern soul;vocal jazz
+05QGJav2nGJ9qdQ3vG9A9t,Duck Sauce,Ask Me,Ask Me / Mesmerize,2021-03-05,57,False,0.803,0.935,4,-4.915,0,0.032,0.0145,0.191,0.296,0.738,124.008,193795,4,disco house
+2XFK1uEeqJ7XI1fNhdPFCz,MIKA,Billy Brown,Life In Cartoon Motion,2007-02-05,38,False,0.671,0.432,7,-7.923,1,0.0418,0.528,1.98e-05,0.281,0.679,121.941,194533,4,electropop
+4k0vs6zgt0NYq6tmDum4nP,Theo Kottis,Seventies,Seventies,2020-11-06,44,False,0.703,0.922,6,-6.633,0,0.0556,0.00172,0.652,0.103,0.81,126.979,196036,4,uk house
+5uFT92zKnodcdWbL0zTVS1,MIKA,My Interpretation,Life In Cartoon Motion,2007-02-05,38,False,0.303,0.742,7,-6.294,1,0.0392,0.0151,1.51e-05,0.271,0.386,96.572,215093,4,electropop
+22quZFeltYbo325rn3ktTe,Young Marco,What You Say?,What You Say?,2023-01-13,52,False,0.687,0.746,6,-9.043,0,0.0484,0.033,0.00113,0.107,0.163,136.03,203688,4,dutch experimental electronic;float house
+4M7D8L0mvWYFuqOuy0NN57,Gotu Jim,Tweede Klas Shit,Tweede Klas,2018-11-16,28,True,0.459,0.682,3,-6.718,1,0.0729,0.447,0.00109,0.208,0.355,175.855,89999,4,dutch hip hop;lustrum
+1RKUoGiLEbcXN4GY4spQDx,Gorillaz,Clint Eastwood,Gorillaz,2001-03-26,76,True,0.663,0.694,10,-8.627,0,0.171,0.0253,0.0,0.0698,0.525,167.953,340920,4,alternative hip hop;modern rock;rock
+6cVgPQEvXfXaWoUjZW45PK,Return Of The Jaded,I'm in Love with You,I'm in Love with You,2021-09-10,46,False,0.698,0.83,1,-6.186,1,0.0346,0.034,0.464,0.286,0.335,124.993,200632,4,canadian electronic;tech house
+7w87IxuO7BDcJ3YUqCyMTT,Foster The People,Pumped Up Kicks,Torches,2011-05-23,86,False,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,239600,4,indietronica;modern alternative rock;modern rock;rock
+7elX5HalbHX0ce1dql4ckd,Cavi,F The Disco,Our Beats,2020-01-24,52,False,0.734,0.776,5,-7.717,0,0.0992,0.00894,0.738,0.0916,0.793,124.018,284507,4,
+0d28khcov6AiegSCpG5TuT,Gorillaz,Feel Good Inc.,Demon Days,2005-05-23,84,False,0.818,0.705,6,-6.679,1,0.177,0.00836,0.00233,0.613,0.772,138.559,222640,4,alternative hip hop;modern rock;rock
+2ujHInqP3YZ1EZF2THczet,Sik World,No One Knows,When Stars Align,2019-09-06,44,True,0.789,0.656,9,-8.559,0,0.108,0.28,0.0,0.179,0.0593,141.996,235022,4,rap
+43W8zo8ohchliMXL2br1v9,Call Me Karizma,F U Till I F U,F U Till I F U,2016-04-20,45,True,0.581,0.605,10,-5.727,0,0.0455,0.282,3.63e-05,0.113,0.172,80.015,234162,4,minnesota hip hop
